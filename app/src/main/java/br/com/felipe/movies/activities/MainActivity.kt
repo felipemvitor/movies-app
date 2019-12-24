@@ -1,7 +1,8 @@
-package br.com.felipe.movies
+package br.com.felipe.movies.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import br.com.felipe.movies.R
 
 class MainActivity : AppCompatActivity() {
 
