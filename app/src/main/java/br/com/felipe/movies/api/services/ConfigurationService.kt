@@ -1,4 +1,4 @@
-package br.com.felipe.movies.api.services.configuration
+package br.com.felipe.movies.api.services
 
 import br.com.felipe.movies.api.entities.configuration.*
 import retrofit2.Call

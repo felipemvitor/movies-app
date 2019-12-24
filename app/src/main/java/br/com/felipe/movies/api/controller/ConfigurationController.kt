@@ -1,8 +1,8 @@
-package br.com.felipe.movies.api.controller.configuration
+package br.com.felipe.movies.api.controller
 
 import br.com.felipe.movies.api.RetrofitConfig
 import br.com.felipe.movies.api.entities.configuration.*
-import br.com.felipe.movies.api.services.configuration.ConfigurationService
+import br.com.felipe.movies.api.services.ConfigurationService
 import br.com.felipe.movies.util.Logger
 import retrofit2.Call
 import retrofit2.Callback
